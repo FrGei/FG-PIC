@@ -1,0 +1,2 @@
+# FG-PIC
+Piktogramm zeichnen
